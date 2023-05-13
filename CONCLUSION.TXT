@@ -1,0 +1,8 @@
+page.tsx  main is Home AHI VA BANNER Y LO Q QUIERAS
+
+LAYOUT  => aca va el navegador ejm <Header />  <Sidebar/> //esto no cambiara no habra refresh
+
+en el nav se enlazara las rutas principales
+
+los componentes que no tendran rutas deben ir aparte de APP. 
+las rutas se hacen en app

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "img": "./assets/imgSlid.png",
+    "title": "Landing Page Ecommerce",
+    "description": "description",
+    "category": "men",
+    "price": 100,
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "img": "./assets/imgSlider2.png",
+    "title": "Landing Page Personal",
+    "description": "description",
+    "category": "men",
+    "price": 40,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "img": "./images/imgSlider3.png",
+    "title": "Landing Page Pet",
+    "description": "description",
+    "category": "men",
+    "price": 40,
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "img": "./images/imgSlider4.png",
+    "title": "Landing Page Beauty",
+    "description": "description",
+    "category": "men",
+    "price": 40,
+    "quantity": 1
+  },
+  {
+    "id": 5,
+    "img": "./images/imgSlider5.png",
+    "title": "Landing Page Oferta",
+    "description": "description",
+    "category": "men",
+    "price": 30,
+    "quantity": 1
+  }
+]
